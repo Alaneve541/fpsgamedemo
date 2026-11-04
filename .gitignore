@@ -1,0 +1,26 @@
+# === Unreal Engine generated / local-only folders ===
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# === IDE / build system files ===
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# === Misc ===
+*.log
+.DS_Store
+Thumbs.db
