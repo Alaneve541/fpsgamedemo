@@ -7,6 +7,13 @@ Build/
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
 
+# === Packaged / staged builds (single .ucas exceeds GitHub's 100 MB limit) ===
+fpsgame试玩demo/
+
+# === Python caches (Content/Python tooling) ===
+__pycache__/
+*.pyc
+
 # === IDE / build system files ===
 .vs/
 .vscode/
